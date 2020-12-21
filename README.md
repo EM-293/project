@@ -9,4 +9,4 @@ Data from this project can be found on Kaggle:
 
 Pneumonia dataset: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-COVID-19 dataset: https://www.kaggle.com/bachrr/covid-chest-xray
+COVID-19 dataset: https://www.kaggle.com/khoongweihao/covid19-xray-dataset-train-test-sets
